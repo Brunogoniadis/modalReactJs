@@ -5,7 +5,7 @@ function App() {
 
   return (
       <Main>
-        <h1>teste</h1>
+        <button>Open Modal</button>
       </Main>
   )
 }
