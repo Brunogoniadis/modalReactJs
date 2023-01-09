@@ -1,8 +1,8 @@
 import styled from "styled-components";
 
 export const Main = styled.div`
-    min-width: 100vw;
-    min-height: 100vw;
+    width: 100vw;
+    height: 100vh;
 
     background: var(--bg-image);
     background-size: cover;
@@ -15,4 +15,6 @@ export const Main = styled.div`
     justify-content: center;
 
     text-align: center;
+
+    
 `

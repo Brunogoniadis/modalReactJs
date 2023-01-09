@@ -24,7 +24,7 @@ function App() {
       <Main style={{'--bg-image' : bg}}>
 
         <Modal isOpen={modalOpen} setIsOpen={setModalOpen}>
-          <h2>teste</h2>
+          <h2>Bruno Goniadis Lima</h2>
         </Modal>
 
         <button onClick={()=> { setModalOpen(true) }}>Open Modal</button>
